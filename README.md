@@ -104,4 +104,14 @@ zurich_proposition_copilot/
 
 7. **Open your browser to** http://localhost:8501
 
+
+## 📝 Future Enhancements
+Add multi-language support (English/Chinese for HK market)
+Integrate with internal product databases via API
+Add automated report generation (PDF export)
+Implement user authentication for team collaboration
+Deploy to internal server with GPU acceleration for faster inference
+
+## 📄 License
+This project is for demonstration purposes only. All competitor product PDFs and regulatory guidelines are publicly available sources.
    
