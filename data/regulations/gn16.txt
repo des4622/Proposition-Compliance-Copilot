@@ -1,0 +1,826 @@
+GN 16
+GUIDANCE NOTE ON  
+UNDERWRITING LONG TERM INSURANCE 
+BUSINESS (OTHER THAN CLASS C BUSINESS) 
+Office of the Commissioner of Insurance  
+30 July 2015 
+GN16
+GUIDANCE NOTE ON UNDERWRITING LONG TERM INSURANCE 
+BUSINESS (OTHER THAN CLASS C BUSINESS) 
+1. 
+1.1 
+1.2 
+2. 
+2.1 
+INTRODUCTION 
+This Guidance Note is issued pursuant to the Insurance Companies 
+Ordinance (Cap. 41) (“ICO”) and the Insurance Core Principles, 
+Standards, Guidance and Assessment Methodology (“ICP”) promulgated 
+by the International Association of Insurance Supervisors (“IAIS”).  
+Specific references are: 
+1.1.1 Section 4A of the ICO stipulates that the Insurance Authority 
+(“IA”)’s function is to protect existing and potential policyholders.  
+Section 4A(2)(c) states that the IA shall promote and encourage 
+proper standards of conduct, and sound and prudent business 
+practices amongst insurers. 
+1.1.2 ICP 19 stipulates that the conduct of the business of insurance 
+should ensure that customers are treated fairly, both before a 
+contract is entered into and through to the point at which all 
+obligations under a contract have been satisfied.  ICP 19.0.1 further 
+stipulates that the conduct of insurance business should help to 
+strengthen public trust and consumer confidence in the insurance 
+sector.  
+This Guidance Note applies to all authorized insurers underwriting long 
+term business (other than Class C business).    
+RELEVANT REGULATORY DOCUMENTS 
+Where appropriate, this Guidance Note should be read in conjunction 
+with other relevant codes/circulars/guidance notes issued by the IA or 
+other regulatory bodies, including the following1 – - 
+Standard Illustration for Participating Policies issued by the Hong 
+Kong Federation of Insurers (“HKFI”) 
+1
+The list is not exhaustive and may be subject to changes from time to time.  Insurers have 
+the responsibility to ensure compliance with all the relevant requirements with due regard 
+to their own circumstances. 
+1 
+- 
+Standard Illustration for Universal Life (Non-Linked) Policies 
+issued by HKFI  - - - 
+3. 
+AGN 5 Principles of Life Insurance Policy Illustrations issued by 
+Actuarial Society of Hong Kong (“ASHK”) 
+AGN on Best Estimate Assumptions issued by ASHK 
+Selling of Non-Linked Long Term Insurance (“NLTI”) Products 
+issued by Hong Kong Monetary Authority 
+PURPOSE 
+3.1 
+3.2 
+4. 
+4.1 
+Both IAIS and the global insurance industry have placed increasing 
+emphasis on fair treatment of customers. ICP 19.2.4 stipulates that fair 
+treatment of customers encompasses: - - - - - 
+developing and marketing products in a way that pays due regard 
+to the interests of customers; 
+providing customers with clear information before, during and after 
+the point of sale; 
+reducing the risk of sales which are not appropriate to customers’ 
+needs; 
+ensuring that any advice given is of a high quality; and 
+managing the reasonable expectations of customers.  
+This Guidance Note sets out the requirements for authorized insurers 
+underwriting long term insurance business (other than Class C business).  
+In assessing whether the requirements have been duly followed by 
+insurers, the IA will consider the substance and nature of the matters 
+involved.  The name or form of the arrangements adopted by individual 
+insurers would be irrelevant.  
+DUTIES OF THE BOARD, THE CONTROLLER AND THE 
+APPOINTED ACTUARY 
+It is the duty of the Controller, as specified under section 13A of the ICO, 
+to ensure that requirements set out in this Guidance Note and the relevant 
+ICPs are observed throughout the life cycle of all long term (except Class 
+C) insurance policies.  It is also the duty of the Board to maintain general 
+oversight over the implementation of measures in compliance with this 
+2 
+Guidance Note and is ultimately responsible for ensuring fair treatment of 
+customers.   
+4.2 
+4.3 
+4.4 
+5. 
+5.1 
+It is a reasonable expectation for policyholders to expect to receive at 
+least a fair proportion, if not all, of the non-guaranteed part of the 
+illustrated benefits.  It is the duty of the Controller, the Appointed 
+Actuary and the Board to ensure that such policyholders’ reasonable 
+expectation is met. 
+It is a continuing duty of the Appointed Actuary to advise the Board of 
+his or her interpretation of policyholders’ reasonable expectations.  For 
+instance, in the context of the provision of benefit illustration, it is the 
+duty of the Appointed Actuary to adopt reasonable assumptions, as well 
+as to provide regular and up-to-date assessment of such assumptions to 
+the Board for making suitable amendments.  When a significant change 
+of the underlying assumptions is likely to take place, the Appointed 
+Actuary should take all reasonable steps to ensure that the Board 
+appreciates the implications for the reasonable expectations of the 
+policyholders.   
+Any attempt to circumvent the requirements prescribed in this Guidance 
+Note would be regarded as acting in bad faith.  In the case of Controllers, 
+this may affect the “fit and proper” assessment under section 8(2) of the 
+ICO.  In the case of Appointed Actuaries, this may constitute non
+compliance with professional standards under section 15C of the ICO, 
+and may render the incumbent not acceptable to the IA under section 
+15(1)(b) of the ICO. 
+PRODUCT DESIGN 
+ICP 19.2.4 stipulates that insurers should develop and market products 
+with due regard to the interests of customers.  During the product design 
+stage, the insurer should carry out a diligent review to ensure that the 
+product meets the “fair treatment of customers” principle, including – - - - - 
+sustainability of the product; 
+needs and affordability of the target customers; 
+risks of the product; and 
+distribution channels for the product. 
+3 
+5.2 
+When performing the diligent review mentioned above during the product 
+design stage, insurers are required to take a holistic view of all the 
+relevant factors.  For example, a product with complex features may not 
+be suitable for distribution through the online channel, where advice to 
+customer cannot be given during the sale process. 
+5.3 
+5.4 
+5.5 
+5.6 
+6. 
+6.1 
+6.2 
+6.3 
+6.4 
+Insurers are required to monitor the products after launch to ensure that 
+they continue to meet the needs of the target customers, assess the 
+performance of the various distribution channels with respect to sound 
+commercial practices, and take the necessary remedial actions where 
+appropriate.  
+In considering whether the design of a product meets the requirements of 
+this GN and the “fair treatment of customers” principle, insurers are 
+required to look at all relevant factors in their totality, including the 
+product features, insurance elements, added value/services to customers, 
+fees/charges, surrender penalties (where applicable), remuneration 
+structure etc. 
+Fees and charges (including charging basis, level of charges, applicable 
+period etc), where applicable, to be paid by the customers should be fair, 
+commensurate with the insurance protection offered by the product 
+concerned, and reflect the services/added value of the insurer. 
+During product design, the determination of pricing assumptions should 
+be based on the best estimate assumptions.  For the guidance and 
+considerations in setting best estimate assumptions, the Appointed 
+Actuary should follow AGN on Best Estimate Assumptions issued by 
+ASHK. 
+PROVISION OF ADEQUATE AND CLEAR INFORMATION 
+ICP 19.2.4 stipulates that insurers should provide customers with clear 
+information before, during and after the point of sale. 
+ICP 19.3.4 stipulates that the product development and marketing process 
+should include the use of adequate information on customer needs. 
+ICP 19.2.4 further stipulates that insurers should manage the reasonable 
+expectations of customers.   
+ICP 19.5.1 stipulates that an insurer should take reasonable steps to 
+ensure that a customer is given appropriate information about a policy in 
+4 
+good time and in a comprehensible form so that the customer can make 
+an informed decision about the arrangements proposed.   
+6.5 
+6.6 
+Product information (e.g. product brochure, benefit illustration) should be 
+bilingual2, clear and succinct, with the use of plain language and legible 
+font size, and should be easily understandable by average customers.  To 
+facilitate understanding by customers, insurers should avoid using 
+technical or industry terminology.  
+Key product risks should be included in the product brochure and 
+marketing materials and insurers should communicate the relevant 
+product risks to their potential customers.  The risks are different for 
+different products and it is the insurer’s duty to identify the key product 
+risks in the interest of customers, including the areas (where applicable) 
+below – 
+6.6.1 Key exclusion – Insurers should disclose key exclusion of the 
+policy in the product brochure and marketing materials alongside 
+description of policy coverage. 
+6.6.2 Premium adjustment – If the insurer has the right to adjust the 
+policy premium, it should disclose the factors leading to such 
+adjustment and also the frequency and timing of adjustment.  For 
+insurance products with premium adjustment features within 
+premium payment term, they cannot be labeled as “level 
+premium”. 
+6.6.3 Premium term – Insurers should disclose the minimum premium 
+term of the policy and the consequence of non-payment of 
+premium within the premium term, including loss of coverage, 
+surrender penalty, and financial loss incurred by the policyholder. 
+6.6.4 Termination conditions – If the insurer has the right to terminate 
+the policy before the maturity date, it should disclose the 
+conditions of making such a decision. 
+6.6.5 Market value adjustment – If the insurer has the right to apply 
+market value adjustment on premium paid within cooling-off 
+period, the insurer should disclose the factors for the 
+determination of such adjustment.  
+2
+For the avoidance of doubt, the English and Chinese versions of the product documents 
+can be separated, but BOTH must be available to the customers.  Insurers should ensure 
+consistency between English and Chinese versions of all the product documents 
+(including product brochure, benefit illustration, policy contract, etc). 
+5 
+6.6.6 Inflation risk – Insurers should alert customers, where appropriate, 
+the adverse impact of inflation (i.e. where the actual rate of 
+inflation is higher than expected, and the policyholder might 
+receive less in real terms even if the insurer meets all of its 
+contractual obligations).  
+6.7 
+6.8 
+6.9 
+7. 
+7.1 
+7.2 
+For products with policy loan facility, insurers should provide 
+policyholders with information about the terms of the loan (including 
+interest rate to be charged) before the loan is drawn down.   For products 
+with automatic policy loan facility, policyholders should be immediately 
+notified that a loan has been first drawn down in accordance with the 
+policy provisions and the interest rate being charged.  Whenever there are 
+changes to the policy loan interest rate, policyholder should be notified 
+within a reasonable period before the new interest rate is effective.  For 
+ongoing disclosure, regular account statements to be sent to policyholders 
+should contain information about the interest rate being charged, opening 
+and ending loan balance as well as the interest amount charged in the 
+period, with the relevant information highlighted to draw policyholders’ 
+attention. 
+For policies to be used as collateral assignment (e.g. for premium 
+financing), insurers should ensure that the policyholder fully understands 
+the relevant risks and limitations (e.g. interest rate risk, rights that the 
+assignee may exercise on the policy on behalf of the policyholder, risk of 
+release of information to the assignee, etc). 
+Insurers have the sole responsibility of ensuring accuracy of the proposal 
+vis-a-vis the policy provisions, with warning statements and other tools 
+(e.g. FAQs) where appropriate to increase customers’ awareness. 
+SUITABILITY ASSESSMENT  
+ICP 19.6.2 specifies that insurers should seek the information from their 
+customers that is appropriate for assessing their insurance needs, before 
+giving advice or concluding a contract. This information may vary, but 
+should at least include information on the customer’s:  
+ 
+knowledge and experience; 
+ 
+needs, priorities and circumstances; and 
+ 
+ability to afford the product. 
+Customers’ needs should be properly assessed through the use of 
+Financial Needs Analysis (“FNA”) form where appropriate.  Insurance 
+6 
+policies should not be marketed to customers before their needs are 
+properly analyzed.  
+7.3 
+7.4 
+7.5 
+7.6 
+7.7 
+8. 
+8.1 
+8.2 
+Customers that have indicated their insurance needs should be presented 
+with different insurance options that are available to meet their specific 
+needs and financial circumstances.   
+For insurance products with long term contribution commitment or 
+investment elements, suitability assessment should include assessing the 
+premium payment horizon of the potential policyholder, with due regard 
+to the financial circumstances, planned retirement age etc. 
+The suitability assessment should be carried out whenever there are 
+relevant changes to the circumstances of the customer.   
+Insurers have the duty to verify all available information and assess 
+whether a particular product is suitable for their needs during the 
+underwriting process. 
+Insurers should endeavour to reduce the risk of sales that do not meet the 
+needs of customers by:- 
+ 
+strengthening training to intermediaries; 
+ 
+assessing the affordability and suitability of products for 
+policyholders during the underwriting process based on available 
+information; and 
+ 
+providing tools for intermediaries to facilitate the recommendation 
+of suitable products to customers. 
+ADVICE TO CUSTOMERS 
+ICP 19.1.1 stipulates that insurers and intermediaries should discharge 
+their duties in a way that can reasonably be expected from a prudent 
+person in a like position and under similar circumstances.  Insurers have 
+the duty to put in place appropriate measures to ensure that their 
+employees and agents are adequately trained to act with due skill, care 
+and diligence. 
+ICP 19.6.1 further stipulates that where advice is given to a customer, 
+such advice goes beyond the provision of product information and relates 
+specifically to the provision of a recommendation on the appropriateness 
+of a product to the disclosed needs of the customer. 
+7 
+8.3 
+After a customer has considered the insurance options, and is beginning 
+to consider an insurance policy, he/she should also be properly apprised 
+of all the product features, including the fees and charges (where 
+applicable), surrender penalties (if any) as well as the product risks, key 
+exclusions, 21-day cooling-off period etc. 
+8.4 
+9. 
+9.1 
+9.2 
+9.3 
+10. 
+The proper sales process flow is set out in the flowchart at the Annex.  It 
+involves completion of the FNA (if applicable), confirmation of needs, 
+comparison of different insurance options (where FNA has been 
+performed), and explanation of the key product features/exclusions. 
+APPROPRIATE REMUNERATION STRUCTURE 
+Insurers have the duty to ensure that the remuneration structure for their 
+intermediaries do not create misaligned incentives for the intermediaries 
+to engage in mis-selling, aggressive selling, fraudulent acts or money 
+laundering activities.  Insurers are therefore required to put in place an 
+appropriate remuneration structure to address such risks. 
+Indemnity commission, or any standing arrangement that offers advance 
+payment of commission, is strictly prohibited.  Insurers should only pay 
+commission on an earned basis.     
+Cases of mis-selling, aggressive selling, fraud and money-laundering 
+often surface after the expiry of the clawback period.  To deter such 
+activities, insurers should put in place a clawback mechanism to fully 
+recover all commission paid in proven fraud / money laundering / mis
+selling cases.  
+ONGOING MONITORING 
+10.1 ICP 19.7 requires insurers and intermediaries to ensure that, where 
+customers receive advice before concluding an insurance contract, any 
+potential conflicts of interest are properly managed.  
+10.2 ICP 19.7.5 further stipulates that conflicts of interest may be managed in 
+different ways as relevant to the circumstances, for example, through 
+appropriate disclosure and informed consent from customers.    
+10.3 Insurers should put in place a proper mechanism to monitor on an 
+ongoing basis any such potential conflict of interests. 
+8 
+10.4 ICP 19.8 stipulates that insurers are required to:- - - - 
+service a policy appropriately through to the point at which all 
+obligations under the policy have been satisfied; 
+disclose to the policyholder information on any contractual 
+changes during the life of the contract; and  
+disclose to the policyholder further relevant information depending 
+on the type of insurance product.  
+10.5 On-going communication with policyholders should be maintained at 
+least annually as an integral part of expectation management (e.g. 
+projections for non-guaranteed benefits in anniversary statements).   
+10.6 Insurers should also put in place a proper mechanism to monitor the 
+products (e.g. complaints, design flaw etc) after launch. 
+11. 
+POST-SALE CONTROL 
+11.1 ICP 19.2 stipulates that insurers and intermediaries should establish and 
+implement policies and procedures on fair treatment of customers.  They 
+should have proper control systems in place to achieve fair treatment of 
+customers and monitor that such policies and procedures are adhered to. 
+11.2 For the protection of vulnerable customers3, insurers are required to make 
+audio-recorded post-sale confirmation calls to all vulnerable customers 
+procuring life insurance products (except term insurance) or products 
+involving investment risks to ensure customers’ understanding on the 
+products and their associated risks.  The post-sale confirmation calls are 
+required to be conducted within 5 working days of the date of policy 
+issue to reaffirm customers’ understanding of the policy that they have 
+procured, and that they are fully aware of their rights and obligations 
+under the policy.   
+11.2.1 Insurers should appoint a separate quality assurance team to make 
+the post-sale calls.  
+11.2.2 Insurers should use their best endeavours to make the post-sale 
+calls, attempting different times of the day and different days of 
+the week. 
+3
+A vulnerable customer is a person i) over 65 years of age ii) whose education level is 
+“primary level” or below, or iii) who has no regular source of income. 
+9 
+11.2.3 Insurers are encouraged to adopt additional measures such as on
+site recording at the service centre or immediate “dial-in” to or 
+from the call centre for customers who are visitors or who may be 
+difficult to reach. 
+11.2.4 In the event of unsuccessful calls, a confirmation letter should be 
+sent to the customers, alongside an email/SMS alert that draws the 
+attention of the customers to the importance of the confirmation 
+letter. 
+11.3 Insurers should collect sufficient information of the policyholder for the 
+purpose of identification of vulnerable customers. 
+11.4 Insurers are required to put in place an effective mechanism to identify 
+possible cases of intermediaries abetting customers to evade the control 
+measures, such as having high rate of unsuccessful post-sale calls.   
+11.5 Insurers should have in place proper documentation systems for quality 
+control and future monitoring.  Apart from the policy documents, records 
+of the post-sale calls, confirmation letters and the email/SMS alerts, as 
+well as control reports in respect of above measures, should also be kept 
+properly. 
+12. 
+COMMENCEMENT 
+12.1 This Guidance Note shall come into effect on the following dates – 
+12.1.1 For new products, this Guidance Note shall take effect from 1 
+April 2016. 
+12.1.2 For new and existing policies of current products, this Guidance 
+Note shall take effect from 1 January 2017. 
+10 
+Selling Process of Non-Linked Insurance Products
+Annex
+Complete Financial Needs 
+Analysis ("FNA") Form 
+Insurance options: - Whole Iife - Universal life - Endowment - Term - Annuity - ILAS, etc 
+Provide product 
+brochures and 
+benefits illustration 
+(where applicable) to 
+customer 
+Explore insurance 
+options 
+Recommend suitable 
+insurance product(s) to 
+customer 
+ILAS  (Follow 
+requirements of GN15) 
+See requirements 
+under 8.3 
+Assist customer in policy 
+application 
+Remind customer the importance of the post-sale call (where applicable) 
+and the cooling-off period 
+Insurer to check suitability of customer in FNA 
+Post-sale call (where applicable) to confirm customer's understanding 
+of fees and charges, payment term,  non-guaranteed benefits, and 
+cooling-off period, etc.  
+APPENDIX I
+REQUIREMENTS APPLICABLE TO PARTICIPATING POLICIES
+1. 
+1.1 
+2. 
+2.1 
+2.2 
+INTRODUCTION 
+For the purpose of this Guidance Note, a participating (or with-profit) 
+policy is a policy that pays non-guaranteed dividends or bonuses 
+(including cash bonus and reversionary bonus) to the policyholder.  
+Dividends/bonuses are generated from profits of the insurer that sold the 
+policy and are typically paid out on an annual basis over the life of the 
+policy.  Some policies also include final or terminal payments that are 
+paid out to the policyholders upon maturity or termination of contract. 
+GOVERNANCE OF PARTICIPATING POLICY BUSINESS 
+To ensure appropriate governance of participating policies, an insurer 
+should have a corporate policy covering allocation of surplus/profits 
+between shareholders and the participating pool, as well as declaration of 
+policyholder dividends/bonuses and other discretionary benefits.  This 
+should be clearly documented, approved by the Board and made available 
+to the IA on request. 
+As a minimum, the policy should cover: 
+2.2.1 The overall philosophy in setting non-guaranteed policyholder 
+benefits, including sharing surplus or experience, smoothing and 
+guarantees. 
+2.2.2 The approach to sharing surplus or experience, including the items 
+to be shared and any quantifications for these. 
+2.2.3 The charges for guarantees and/or capital if appropriate, including 
+justifications and reasonableness etc. 
+2.2.4 The investment strategy, including ongoing management of the 
+asset mix. 
+2.2.5 Maintenance of fairness between different products and 
+generations.   
+2.2.6 Smoothing of payouts should be explained and justified, including 
+whether it is expected to be on average cost-neutral to the 
+shareholder. 
+I-1 
+2.2.7 How the assets are held and managed, including the segregation 
+mechanism in case of pooling of funds for investment purpose. 
+2.2.8 The principles and practices in determining the projected non
+guaranteed benefits of benefit illustration at point of sales and 
+annual inforce illustration.  
+2.2.9 Measures to manage potential conflict between its duty to 
+policyholders and its duty to shareholders, particularly in relation 
+to the declaration of dividends/bonuses for policyholders.  The 
+insurer should provide information about the above measures 
+either in the product brochure or in a separate leaflet to be 
+provided to customers at the point of sale; or on its website 
+(should also provide the relevant link to the website address in the 
+product brochure).   These may include: 
+2.2.9.1 
+2.2.9.2 
+2.2.9.3 
+2.3 
+The profit sharing ratio between shareholders and 
+participating fund; 
+Establishment of Dividend/Profit Sharing/With Profits 
+Committee to provide independent advice on the 
+management of participating business; or 
+Written declaration by the Chairman of the Board, an 
+Independent Non-Executive Director and Appointed 
+Actuary. 
+When designing products with non-guaranteed benefits, it is the 
+Appointed Actuary’s duty to ensure that there is a fair chance in 
+achieving the non-guaranteed returns.  It is thus essential for the 
+Appointed Actuary to define the philosophy and assumptions for the 
+determination of non-guaranteed benefits, as well as to advise the Board.   
+2.4 
+The Appointed Actuary should submit a report to the Board 
+recommending policyholder dividends/bonuses and other non-guaranteed 
+benefits annually and more frequently, if such is required.  The insurer’s 
+dividends/bonuses declaration mechanism will be subject to IA’s 
+regulatory review.  The IA may require the insurer to appoint an 
+independent party to assess whether the policy has been applied 
+completely, consistently and fairly.   The report should also cover: 
+2.4.1 Any changes to the policy since the last report, including an 
+explanation of why this is consistent with policyholders’ 
+reasonable expectation. 
+I-2 
+2.4.2 Explanation where decisions are contractual and related to policy 
+documents or other customer communications, and where 
+decisions are at the discretion of the insurer, taking into account 
+the issue of equity between shareholders and policyholders. 
+2.4.3 Consistency in the dividends/bonuses declaration mechanism 
+needs to be maintained for the product design stage and 
+throughout the policy life. 
+2.5 
+2.6 
+3. 
+3.1 
+3.2 
+3.3 
+The Appointed Actuary’s report should be made available to the IA upon 
+request. 
+The Board, on the advice of the Appointed Actuary, is ultimately 
+responsible for interpretation of the policyholders’ reasonable expectation, 
+and deciding the dividends/bonuses declaration, taking into account the 
+principle of fair treatment of customers, and the issue of equity between 
+shareholders and policyholders. 
+PROVISION OF BENEFIT ILLUSTRATION 
+The objective of a benefit illustration is to provide a potential customer 
+with the projected performance of a life insurance policy showing the 
+total benefits with a breakdown for guaranteed and non-guaranteed 
+benefits, which may reasonably be payable at each policy year should 
+certain conditions be met.  Hence, it is important for an insurer to identify 
+clearly what assumptions are made in producing the projected non
+guaranteed benefits.   
+It is important for the potential customer to understand the projected 
+benefits of the life insurance policy where he or she intends to purchase.  
+The potential customer must sign the benefit illustration to confirm 
+his/her understanding (including understanding of the worst and extreme 
+scenario where dividends/bonuses may be zero). 
+In the provision of benefit illustrations, the insurer must follow the 
+guiding principles as laid out by the Actuarial Society of Hong Kong in 
+AGN 5, namely:- 
+3.3.1 the benefit illustration must not be misleading; 
+3.3.2 where premiums and benefits are illustrated, the conditions upon 
+which these are payable must be clearly set out; 
+I-3 
+3.3.3 the use of such benefit illustration in different distribution 
+channels; and 
+3.3.4 the benefit illustration must be consistent with the regulatory 
+requirements.   
+3.4 
+3.5 
+3.6 
+3.7 
+4. 
+4.1 
+Additional high and low return scenarios must be provided in the benefit 
+illustration to show the variability of the ultimate results.  A wider range 
+of scenarios is expected for investment strategy with higher volatility.  
+The Appointed Actuary should have regard to Appendix A of AGN on 
+Best Estimate Assumptions issued by ASHK, which provides guidance 
+and considerations for setting the benefit illustration assumptions. 
+In the benefit illustration, guaranteed and non-guaranteed 
+dividends/bonuses should be separately presented with an explicit 
+message that non-guaranteed dividends/bonuses may be zero. 
+The illustration should show the annual dividend (or reversionary bonus) 
+and terminal dividend (or terminal bonus) separately.  The policyholders 
+need to understand the different implications on annual and terminal 
+dividends/bonus if there are changes in, say, the assumptions (e.g. the 
+terminal dividends/bonuses may be more volatile than annual 
+dividends/bonuses). 
+DISCLOSURE OF NON-GUARANTEED BENEFITS  
+In addition to the provision of benefit illustration, an insurer should adopt 
+the following process in disclosing non-guaranteed benefits: 
+4.1.1 Disclosure at the point of sale: 
+4.1.1.1 
+Customers should be apprised of factors that will 
+significantly affect the determination of policyholders’ 
+dividends/bonuses, including but not limited to the 
+following factors: 
+(i) 
+(ii) 
+Claims factors – The claims factors represent the 
+experience of mortality and morbidity of the 
+business. 
+Interest income factors – This may include not 
+only interest earnings, but also outlook of interest 
+I-4 
+rates, and the effects of capital gains and losses. 
+(iii) 
+(iv) 
+(v) 
+4.1.1.2 
+Market risk factors – Insurers should disclose the 
+types of market risk that would significantly 
+affect the determination of dividends. 
+Expense factors – This may include direct 
+expenses which are specifically related to the 
+group of policies, such as commission, 
+underwriting and issue expenses and other 
+maintenance expenses, such as premium 
+collection expense. This may also include indirect 
+expenses such as general overhead costs, which 
+will be allocated to such group of policies. 
+Persistency factors – This includes policy lapse 
+and partial surrender experience; and the 
+corresponding impact on investments. 
+Non-guaranteed rate (e.g. dividend/bonus) philosophy 
+should include investment policies and objectives and 
+investment strategy, which will very likely result in the 
+variation of investment returns against the long term 
+expectation.    In most circumstances, it is the key driver 
+leading to volatility of non-guaranteed benefits. 
+4.1.1.3 
+4.1.1.4 
+4.1.1.5 
+The insurer should highlight the investment strategy 
+(e.g. target asset mix / geographical allocation / 
+currency mix, use of derivative instruments and 
+securities lending etc) of the underlying investment in 
+its product brochure.  The asset classes (e.g. equities, 
+bonds, deposits) and security concentration (e.g. US 
+Treasury, corporate bonds, high yield bonds) should 
+also be mentioned in the investment strategy.  The 
+additional information can help customers understand 
+the risk and volatility of returns of the underlying assets 
+and the non-guaranteed returns. 
+The insurer should provide information on its 
+philosophy in deciding dividends/bonuses in the product 
+brochure (with updated information published on its 
+website as well). 
+The insurer should disclose on its company website the 
+non-guaranteed dividends/bonuses fulfillment ratios for 
+I-5 
+each product series which has new policies recently 
+issued.  Customers should be informed the website 
+address that shows these fulfillment ratios.  
+It is 
+required to disclose at least the product type and 
+fulfillment ratios for each product series.  
+The 
+fulfillment ratio is calculated as the average ratio of 
+non-guaranteed dividends/bonuses actually declared 
+against the illustrated amounts at the point of sale.  
+Non-guaranteed benefits may vary from product type to 
+product type.  The insurer should therefore disclose: 
+(i) 
+(ii) 
+4.1.1.6 
+For dividend type traditional participating 
+products – fulfillment ratios of the accumulated 
+dividends (including accumulation interest and 
+terminal/maturity dividend, if applicable). 
+For reversionary bonus type traditional 
+participating products – fulfillment ratios of 
+accumulated reversionary bonus and terminal 
+bonus. 
+Customers must be alerted to the fact that dividend 
+history is not an indicator of future performance of the 
+participating products. 
+4.1.2 Disclosure during policy life (process to ensure timely and 
+accurate communication especially when changes to customer 
+benefits are anticipated):  
+4.1.2.1 
+4.1.2.2 
+Ongoing communication must be provided to 
+policyholders at least on an annual basis on both actual 
+non-guaranteed benefits declared for the year and a 
+refreshed up-to-date inforce benefit illustration 
+reflecting the latest conditions and outlook.  Such 
+communication will help manage policyholders’ 
+reasonable expectation at least once a year and 
+minimize the gap between the original benefit 
+illustration and the actual performance. 
+Monitor the non-guaranteed benefits regularly (at least 
+annually) and check the sustainability of the non
+guaranteed benefits based on the actual experience and 
+investment outlook. 
+I-6 
+4.1.2.3 
+If there is any change to dividends/bonuses (or their 
+philosophy), the insurer should inform relevant 
+policyholders of the change of dividend/bonus by 
+writing separately or include the information in the 
+annual statements with explicit reasons for the change. 
+4.1.3 In illustrating premium offset option, the insurer should follow the 
+requirements below: 
+4.1.3.1 
+4.1.3.2 
+4.1.3.3 
+4.1.3.4 
+Projection of the premium offset option based on 
+different scenarios, especially the adverse situation 
+(where the premiums are not offset due to a reduced 
+dividend level), is required to be provided to the 
+customer. 
+The illustration should not use the term “vanish” or 
+“vanishing premium” or similar terminologies that 
+suggest that the policy has been fully paid up, to 
+describe a plan for using non-guaranteed elements to 
+pay a portion of future premiums.  The customer should 
+be reminded that he/she has the obligation to pay 
+premiums for the entire term.  Otherwise, the benefit 
+will be affected. 
+Clear disclosure should be made to ensure that the 
+customers fully understand the risk involved, in 
+particular under the scenario where the level of dividend 
+is persistently low.  In cases where future dividends are 
+to be used to pay premiums for medical riders, the 
+insurer is required to alert customers the additional risk 
+brought about by possible future medical cost inflation 
+and/or reduced dividends.  Insurers should provide 
+policyholders with regular update through annual 
+statements. 
+If the product offers a range of premium payment terms, 
+the insurer should mention the shorter premium term 
+options only as an alternative.  Customers should be 
+warned that the sustainability of premium offset 
+depends on future dividend declaration, which is not 
+guaranteed.  Policyholders may be obliged to resume 
+future premiums, even if the premium offset option has 
+been activated, in case declaration of policyholder 
+dividends is lower than the illustrated scale.  While 
+I-7 
+policyholder dividends play an important part in 
+determining the future premium offset point, customers 
+should be reminded there are a number of other factors 
+that should be taken into consideration.  These factors 
+include dividend withdrawals, change in dividend 
+options and addition of optional benefits to the policy. 
+4.1.3.5 
+For the withdrawal illustration option, disclosure should 
+be made to ensure that the customers fully understand 
+the risk involved.  For example, illustrated withdrawal 
+amounts, which depend on non-guaranteed dividends, 
+might not be sustainable.  If withdrawal or partial 
+surrender is used, a warning message that withdrawal or 
+partial surrender will affect future benefits should be in 
+place. 
+I-8 
+APPENDIX II
+REQUIREMENTS APPLICABLE TO UNIVERSAL LIFE POLICIES
+1. 
+1.1 
+2. 
+2.1 
+2.2 
+3. 
+3.1 
+3.2 
+3.3 
+INTRODUCTION 
+For the purpose of this Guidance Note, a universal life policy is a type of 
+life insurance with a savings element that may provide a cash value 
+buildup.  The cash value is credited with declared interest (i.e. at the 
+declared crediting interest rate), and debited by cost of insurance charges, 
+as well as any other policy charges and fees.  The declared interest rate 
+will vary from time to time and will be subject to a minimum if the 
+product offers a guaranteed interest rate.  It provides flexibility to 
+policyholders in respect of premium payment and withdrawal from policy 
+accounts (with applicable fees and charges).  The death benefit, savings 
+element and premiums can be reviewed and altered as policyholders’ 
+circumstances change.   
+GOVERNANCE OF UNIVERSAL LIFE POLICY BUSINESS 
+To ensure appropriate governance of universal life policies, insurers 
+should have internal policies covering the mechanism to determine the 
+crediting interest rate, cost of insurance charge, other policy fees and 
+charges, as well as other discretionary benefits.  This should be clearly 
+documented, approved by the Board and made available to the IA upon 
+request. 
+Insurers should follow Sections 2.2 to 2.6 of the Appendix I for the 
+purpose of this section.  
+PROVISION OF BENEFIT ILLUSTRATION 
+Insurers should follow Sections 3.1 to 3.3 of Appendix I for the purpose 
+of this section. 
+Projections of policy benefits should be provided on at least two bases: (a) 
+guaranteed or conservative basis; and (b) current assumed basis.   
+If a policy provides a minimum guaranteed interest rate and maximum 
+policy charges, one of the projections has to be prepared based on such 
+guaranteed interest rate and maximum policy charges.  The projection 
+could be labeled as guaranteed basis.  Otherwise, projected crediting 
+II-1 
+interest rate at 0% p.a. (if minimum guaranteed interest rate is not 
+available) or current charges (if maximum charges are not available) 
+should be used, and this projection can only be labeled as conservative 
+basis.  The other projection has to be prepared based on a set of best 
+estimate assumptions whereby current best estimate crediting interest rate 
+and current charges are to be used for this purpose.  Policyholders should 
+be alerted with an explicit message that the crediting interest rate may be 
+zero (or the minimum guaranteed interest rate where applicable). 
+3.4 
+3.5 
+3.6 
+4. 
+4.1 
+4.2 
+4.3 
+It is optional for insurers to provide additional high and low return 
+scenarios in the benefit illustration to show the variability of projected 
+benefits provided that the projections are not misleading.  The optional 
+benefit illustration is only applicable for products having substantial 
+variable investment exposure. 
+The Appointed Actuary should have regard to Appendix A of AGN on 
+Best Estimate Assumptions issued by ASHK, which provides guidance 
+and considerations on setting the benefit illustration assumptions. 
+In the benefit illustration, all fees and charges (current and maximum 
+scales, if applicable) should be shown clearly, with an explicit message 
+that the current fees and charges could be subject to change (if applicable). 
+DISCLOSURE OF NON-GUARANTEED BENEFITS  
+Insurers should follow Sections 4.1.1 and 4.1.2 of Appendix I for 
+disclosure of non-guaranteed benefits where applicable for universal life 
+policies, with the exception of Section 4.1.1.5.  For example, terminology 
+may be modified from “dividend/bonus” to “crediting interest rate”. 
+The insurer should disclose on its company website the historical 
+crediting interest rates for each product series which has new policies 
+recently issued.  Customers should be informed the website address that 
+shows these historical crediting interest rates.  It is required to disclose at 
+least the historical crediting interest rates for each product series.   
+In addition, key risks applicable to universal life policies (including fees 
+and charges, lapsation risk due to zero account value etc), different types 
+of crediting interest rates for different cohort of universal life product (if 
+applicable), etc should be disclosed. 
+II-2 
